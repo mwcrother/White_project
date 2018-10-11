@@ -1,7 +1,7 @@
 import dendropy
 
 amphib = dendropy.DnaCharacterMatrix.get(
-    path="../data/plethodon.phy",
+    path="../data/plethadon.phy",
     schema="phylip"
 )
 
